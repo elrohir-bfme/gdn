@@ -44581,7 +44581,7 @@ CONTROLBAR:ToolTipPurchaseTechnologyAngmarThrallDiscipline
 END
 
 TOOLTIP:LackAngmarThrallDiscipline
-"Recherchez cette amélioration à la Salle des Hommes du Roi pour activer cet équipement\n Lorsqu'équipé, +100 % d'armure"
+"Recherchez cette amélioration à la Salle des Hommes du Roi pour activer cet équipement\n Lorsqu'équipé, +25 % de dégâts et +25% d'armure"
 END
 
 UPGRADE:AngmarThrallDiscipline
@@ -44806,7 +44806,7 @@ CampaignName:Amonsul
 END
 
 CampaignName:Darkeye
-"L'Sil du Seigneur des Ténèbres"
+"L'Œil du Seigneur des Ténèbres"
 END
 
 CampaignName:Barrowdown
@@ -44829,6 +44829,30 @@ CampaignName:Destruction
 "La Chute d'Angmar"
 END
 
+CampaignName:RhudaurGood
+"Défense de Rhudaur"
+END
+
+CampaignName:WeatherHills
+"Collines du Vent"
+END
+
+CampaignName:Cardolan
+"Cardolan"
+END
+
+CampaignName:DarkEyeGood
+"Hauts du Nord"
+END
+
+CampaignName:BarrowWights
+"Défense des Hauts des Galgals"
+END
+
+CampaignName:Escape
+"Évasion"
+END
+
 Map:MAPANGAngmar
 "Fondation d'Angmar"
 END
@@ -44846,7 +44870,7 @@ Map:MAPANGAmonSul
 END
 
 Map:MAPANGDarkEye
-"L'Sil du Seigneur des Ténèbres"
+"L'Œil du Seigneur des Ténèbres"
 END
 
 Map:MAPANGBarrowDowns
@@ -44871,6 +44895,34 @@ END
 
 Map:MAPANGBonus
 "Chute d'Angmar"
+END
+
+Map:MAPARNRhudaur
+"Défence de Rhudaur"
+END
+
+Map:MAPARNWeatherHills
+"Collines du Vent"
+END
+
+Map:MAPARNCardolan
+"Cardolan"
+END
+
+Map:MAPARNDarkEye
+"Hauts du Nord"
+END
+
+Map:MAPARNRIvendell
+"Fondcombe"
+END
+
+Map:MAPARNBarrowWights
+"Défence des Hauts des Galgals"
+END
+
+Map:MAPARNEscape
+"Évasion"
 END
 
 OBJECT:ForBuilding

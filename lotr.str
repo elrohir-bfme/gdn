@@ -44565,11 +44565,12 @@ CONTROLBAR:PurchaseTechnologyAngmarSpikedCollars
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyAngmarSpikedCollars
-"Permet d'équiper une meute de Loups sinistres de Colliers cloutés"
+//"Permet d'équiper une meute de Loups sinistres de Colliers cloutés"
+"Permet aux hordes d'acheter l'amélioration Collier clouté. Lorsqu'il est équipé, +25% d'armure."
 END
 
 TOOLTIP:LackAngmarSpikedCollars
-"Recherchez cette amélioration dans le repaire de Trolls et de Loups pour \n activer cette amélioration \n Lorsqu'elle est équipée, elle améliore la défense de l'unité"
+"Recherchez cette amélioration dans le repaire de Trolls et de Loups pour \n activer cette amélioration \n Lorsqu'elle est équipée, +25% d'armure"
 END
 
 CONTROLBAR:PurchaseTechnologyAngmarThrallDiscipline
@@ -49366,7 +49367,7 @@ CONTROLBAR:PurchaseUpgradeAngmarSpikedCollars
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarSpikedCollars
-"Améliore ce bataillon avec des Colliers à Pointes\n +33 % d'armure"
+"Améliore ce bataillon avec des Colliers à Pointes\n +25 % d'armure"
 END
 
 CONTROLBAR:PurchaseUpgradeAngmarThrallDiscipline

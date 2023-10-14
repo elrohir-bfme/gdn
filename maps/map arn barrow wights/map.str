@@ -1,0 +1,75 @@
+SCRIPT:ARNBarrowWObjectiveText_01
+"Carthaen doit survivre."
+END
+
+SCRIPT:ARNBarrowWObjectiveText_02
+"Trouvez la cause de la corruption."
+END
+
+SCRIPT:ARNBarrowWObjectiveText_03
+"Reprendre et protéger les 7 sommets."
+END
+
+SCRIPT:ARNBarrowWObjectiveText_04
+"Trouvez et détruisez les 3 autels des Sorcier."
+END
+
+SCRIPT:ARNBarrowWObjectiveText_05
+"Protégez le sommet royal des assauts."
+END
+
+SCRIPT:ARNBarrowWObjectiveText_06
+"Tuez Hwaldar une bonne fois pour toute."
+END
+
+SCRIPT:ARNBarrowWBonusObjectiveText_01
+"Reprendre tous les sommets avant la fin du rituel."
+END
+
+SCRIPT:ARNBarrowWBonusObjectiveText_02
+"Détruire la base de l'Angmar."
+END
+
+SCRIPT:ARNBarrowWText_00
+"Carthaen: Nous devons construire une base et récupérer tous les sommets qu'ils possèdent."
+END
+
+SCRIPT:ARNBarrowWText_01
+"Carthaen: Nous devons trouver la source de la corruption qui ronge les Galgals. \n La source vient des sommets de nos tombeaux, allons voir ce qu'il se passe."
+END
+
+SCRIPT:ARNBarrowWText_02
+"Les Sorciers d'Angmar ont commencé un rituel sur les sommets des rois d'Arnor. Nous devons les stopper."
+END
+
+SCRIPT:ARNBarrowWText_03
+"Rodeur Dunedain: Carthaen, nous avons trouver l'emplacement des 3 autels qui envoient des sorciers."
+END
+
+SCRIPT:ARNBarrowWText_04
+"Carthaen: Détruisez ces abominations et les sorciers ne pourront plus exercer leurs pouvoirs sur nous."
+END
+
+SCRIPT:ARNBarrowWText_05
+"Carthaen: Ils ont une base ici, nous devrions la détruire pour réduire leur nombre."
+END
+
+SCRIPT:ARNBarrowWText_06
+"Carthaen: L'ennemi se prépare à nous attaquez sur les sommets, défendez le sommet royal à tout prix."
+END
+
+SCRIPT:ARNBarrowWText_07
+"Défendre les sommets pendant l'attaque permettra de les purifier."
+END
+
+SCRIPT:ARNBarrowWText_08
+"Carthaen: Cet ordure de Hwaldar mène l'assaut final. Il est temps pour lui de payer tous ses crimes et de mourrir."
+END
+
+SCRIPT:ARNBarrowWText_09
+"Le sommet royal a été purifié."
+END
+
+SCRIPT:ARNBarrowWText_10
+"Purification du sommet royal dans :"
+END

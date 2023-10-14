@@ -1,0 +1,63 @@
+SCRIPT:Rivendell_Objective_01
+"Amenez Glorfindel et ses Elfes jusqu'à Fondcombe."
+END
+
+SCRIPT:Rivendell_Objective_02
+"Résistez aux assauts de l'Angmar."
+END
+
+SCRIPT:Rivendell_Objective_03
+"Tous vos héros doivent survivre."
+END
+
+SCRIPT:Rivendell_Objective_04
+"La Maison d'Elrond ne doit pas être détruite."
+END
+
+SCRIPT:Rivendell_Objective_05
+"Détruire la Base de l'Angmar du sud."
+END
+
+SCRIPT:Rivendell_Objective_06
+"Détruire le bateau ou prendre le port avant la fin des vagues."
+END
+
+SCRIPT:Rivendell_BonusObjective
+"Détruisez le bateau ou le port pour stopper les assauts maritimes."
+END
+
+SCRIPT:Rivendell_01
+"Les forces de L'Angmar ont assiégé Fondcombe, ils vont attaquer la cité des elfes dans très peu de temps."
+END
+
+SCRIPT:Rivendell_02
+"Glorfindel: Les forces du Roi Sorcier sont a nos portes, nous devons nous défendre."
+END
+
+SCRIPT:Rivendell_03
+"Elrond: Nous avons déjà prévenu Celeborn, il devrait nous envoyer des renforts d'ici peu."
+END
+
+SCRIPT:Rivendell_04
+"Détruisez la base de l'Angmar pour stopper le siège."
+END
+
+SCRIPT:AngmarTimer
+"Première Vague dans :"
+END
+
+SCRIPT:AngmarTimer2
+"Seconde Vague dans :"
+END
+
+SCRIPT:AngmarTimer3
+"Troisième Vague dans :"
+END
+
+SCRIPT:AngmarTimer4
+"Quatrième Vague dans :"
+END
+
+SCRIPT:AngmarTimer5
+"Cinquième Vague dans :"
+END

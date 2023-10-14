@@ -1,0 +1,75 @@
+SCRIPT:ARNTimeHillObjectiveText_01
+"Capture the Signal Fire."
+END
+
+SCRIPT:ARNTimeHillObjectiveText_02
+"Arveleg must survive."
+END
+
+SCRIPT:ARNTimeHillObjectiveText_03
+"Repel the assaults of Angmar."
+END
+
+SCRIPT:ARNTimeHillBonusObjectiveText_01
+"Arveleg must reach Level 5."
+END
+
+SCRIPT:ARNTimeHillBonusObjectiveText_02
+"Capture the Outpost"
+END
+
+SCRIPT:ARNTimeHillText_01
+"ARVELEG: The Witch-king is back, now we must defeat him once and for all."
+END
+
+SCRIPT:ARNTimeHillText_02
+"ARVELEG: I need to gather more men to get this vermin out of this land!"
+END
+
+SCRIPT:ARNTimeHillText_03
+"Capture the Signal Fire to call for reinforcements."
+END
+
+SCRIPT:ARNTimeHillText_04
+"ARNOR SOLDIER: I need you to send reinforcements."
+END
+
+SCRIPT:ARNTimeHillText_05
+"ARVELEG: I know perfectly well that the enemy forces wish to cross our lands through these hills. \n They should be arriving soon, and we will receive them as they should."
+END
+
+SCRIPT:ARNTimeHillText_06
+"Angmar arrives in:"
+END
+
+SCRIPT:ARNTimeHillText_07
+"Angmar is preparing for their last assault in:"
+END
+
+SCRIPT:ARNTimeHillText_08
+"ARVELEG: We need more resources to repel future assaults."
+END
+
+SCRIPT:ARNTimeHillText_09
+"Capture the outpost to call for more builders."
+END
+
+SCRIPT:ARNTimeHillText_10
+"The builders have arrived at the outpost."
+END
+
+SCRIPT:ARNTimeHillText_11
+"Reinforcements have arrived."
+END
+
+SCRIPT:ARNTimeHillText_12
+"New wave in:"
+END
+
+SCRIPT:ARNTimeHillText_13
+"ARVELEG: We have defeated these wretches, their master will not be very happy with their failure."
+END
+
+SCRIPT:ARNTimeHillText_14
+"ARVELEG: I’m going back to Amon Sul to use the palantir \n to predict the next moves of the Witch-king."
+END

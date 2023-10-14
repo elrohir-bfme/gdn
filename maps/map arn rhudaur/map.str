@@ -1,0 +1,103 @@
+SCRIPT:ARNRhudaurObjectiveText_01
+"Prendre contacte avec les 2 Forts de Rhudaur."
+END
+
+SCRIPT:ARNRhudaurObjectiveText_02
+"Protégez les 2 Forts des Rebelles."
+END
+
+SCRIPT:ARNRhudaurObjectiveText_03
+"Trouvez et capturez Hwaldar."
+END
+
+SCRIPT:ARNRhudaurObjectiveText_04
+"Libérez l’avant-poste Dunedain du sud."
+END
+
+SCRIPT:ARNRhudaurObjectiveText_05
+"Argeleb doit survivre"
+END
+
+SCRIPT:ARNRhudaurBonusObjectiveText_01
+"Faire passer Argeleb aux Niveaux 3."
+END
+
+SCRIPT:ARNRhudaurBonusObjectiveText_02
+"Libérez tous les villages avant de capturer Hwaldar."
+END
+
+SCRIPT:ARNRhudaurText_01
+"Offcier d'Arnor : Dépêchons-nous, nous devons prévenir les forts."
+END
+
+SCRIPT:ARNRhudaurText_02
+"Officier d'Arnor : Oh non, les forts se font déjà attaqué par les rebelles."
+END
+
+SCRIPT:ARNRhudaurText_03
+"Soldat d'Arnor : Vous êtes arrivés à temps, nous ne savions pas combien de temps nous pouvions encore tenir."
+END
+
+SCRIPT:ARNRhudaurText_04
+"Soldat d'Arnor : Merci, tout ira bien maintenant mais faites vite, Le 2e fort extérieur est toujours attaqué."
+END
+
+SCRIPT:ARNRhudaurText_05
+"Homme des collines : Hwaldar le chef de la colline est libre, mort aux Dunedains !"
+END
+
+SCRIPT:ARNRhudaurText_06
+"Soldat d'Arnor : Nous sommes assaillis, nous avons besoin d'aide !"
+END
+
+SCRIPT:ARNRhudaurText_07
+"Les Forts sont en sécurité, attendons l'arrivé du Roi à présent."
+END
+
+SCRIPT:ARNRhudaurText_08
+"Officer d'Arnor : Heureux de vous revoir messire, comme vous le voyez nous sommes fort occupés \n mais les attaques n'ont toujours pas cessé."
+END
+
+SCRIPT:ARNRhudaurText_09
+"Argeleb : Au rapport soldat, que se passe-t-il ici ?"
+END
+
+SCRIPT:ARNRhudaurText_10
+"Officer d'Arnor : Des rebelles du Rhudaur nous ont attaqué, ils sont menés par un certain Hwaldar."
+END
+
+SCRIPT:ARNRhudaurText_11
+"Argeleb : C'est intolérable ! Nous devons mater cette rébellion et capturer leur chef au plus vite."
+END
+
+SCRIPT:ARNRhudaurText_12
+"Hwaldar doit se trouver dans l'un des villages à l'Est. Mais certains hommes des collines \n restent fidèles à l'Arnor. Ils vous rejoindront si vous les aidez."
+END
+
+SCRIPT:ARNRhudaurText_13
+"Regardez, l'avant-poste des Rodeurs est attaqué, ils ont allumé leur feu d'alarme."
+END
+
+SCRIPT:ARNRhudaurText_14
+"Vous avez trouvé le village où se trouve Hwaldar, préparez bien votre assaut."
+END
+
+SCRIPT:ARNRhudaurText_15
+"Argeleb : Bien joué soldat, enfermez Hwaldar dans l'avant-poste au sud."
+END
+
+SCRIPT:ARNRhudaurText_16
+"Argeleb : Continuez de mater les rebelles, je vais aller chercher des renforts."
+END
+
+SCRIPT:ARNRhudaurText_17
+"Tous les villages ont été libéré, il ne reste plus que le Village où se trouve Hwaldar."
+END
+
+SCRIPT:ARNRhudaurText_18
+"Rodeur Dunedain: Ils sont entrés dans le camp !"
+END
+
+SCRIPT:ARNRhudaurText_19
+"Rodeur Dunedain: Vous êtes arrivés juste à temps."
+END

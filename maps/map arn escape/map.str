@@ -1,0 +1,135 @@
+SCRIPT:ArveduiOBJECTIVE_00
+"Arvedui doit Survivre."
+END
+
+SCRIPT:ArveduiOBJECTIVE_01
+"Echappez-vous des montagnes bleu."
+END
+
+SCRIPT:ArveduiOBJECTIVE_02
+"Aidez les nains à vaincre les Gobelins."
+END
+
+SCRIPT:ArveduiOBJECTIVE_03
+"Trouvez les Lossoth."
+END
+
+SCRIPT:ArveduiOBJECTIVE_04
+"Aidez les 3 groupes de réfugiés d'Arnor."
+END
+
+SCRIPT:ArveduiOBJECTIVE_05
+"Trouvez et repoussez les 3 Garnisons d'Angmar."
+END
+
+SCRIPT:ArveduiOBJECTIVE_06
+"Vaincre Morgomir."
+END
+
+SCRIPT:ArveduiBonusOBJECTIVE_02
+"Aidez les réfugiés et repoussez les 3 garnisons d'Angmar avant l'arrivé de Morgomir."
+END
+
+SCRIPT:ArveduiBonusOBJECTIVE_01
+"Le Batisseur doit survivre."
+END
+
+SCRIPT:ArveduiText01
+"Les derniers palantirs de l'Arnor se trouvent dans le chariot de votre batisseur. \n Si vous le perdez, vous n'aurez plus vos pouvoirs."
+END
+
+SCRIPT:ArveduiText02
+"1974 du Troisième Age: avant la bataille de Fornost."
+END
+
+SCRIPT:ArveduiText03
+"1974 du Troisième Age: après la Bataille de Fornost."
+END
+
+SCRIPT:ArveduiText04
+"1975 du Troisième Age: dans les mines abandonné d'Ered Luin."
+END
+
+SCRIPT:ArveduiText05
+"1975 du Troisième Age: dans la baie de Forochel."
+END
+
+SCRIPT:ArveduiText06
+"Hiver 1975 du Troisième Age: dans le village Lossoth."
+END
+
+SCRIPT:ArveduiText07
+"Arvedui: Nous n'avons plus de provisons, nous devons partir d'ici ou nous mourrons de faim."
+END
+
+SCRIPT:ArveduiText08
+"Officier d'Arnor: Attention, il y a des Gobelins dans ces Montagnes."
+END
+
+SCRIPT:ArveduiText09
+"Officier d'Arnor: Cette Porte est fermée, nous n'avons aucun moyen de l'ouvrir."
+END
+
+SCRIPT:ArveduiText10
+"Utilisez le démolisseur pour détruire la porte."
+END
+
+SCRIPT:ArveduiText11
+"Arvedui: Nous devons nous rendre à Forochel avec mes biens les plus précieux."
+END
+
+SCRIPT:ArveduiText12
+"Arvedui: Nous devons traverser ces terres et trouver les Lossoth. \n Ils pourront nous aider, faisons vite ou nous mourrons de froid."
+END
+
+SCRIPT:ArveduiText13
+"Soldat d'Arnor: Nous savons que Morgomir est en route et qu'il a laissé 3 capitaines ici. Nous devons les trouver."
+END
+
+SCRIPT:ArveduiText14
+"Morgomir arrive dans :"
+END
+
+SCRIPT:ArveduiText15
+"Soldat d'Arnor: Nous allons faire diversion, allez au nord voir les Lossoth. Ils pourront vous aider."
+END
+
+SCRIPT:ArveduiText16
+"Arvedui: Je suis Arvedui, Roi d'Arnor. Pouvez vous nous aider ? \n Nous sommes à la rechere d'un foyer pour dormir et nous n'avons plus de nourriture."
+END
+
+SCRIPT:ArveduiText17
+"Arvedui: Je suis Arvedui, Roi d'Arnor. Pouvez vous nous aider ? \n nous sommes poursuivis par les forces d'Angmar."
+END
+
+SCRIPT:ArveduiText18
+"Chef Ossoth: Nous acceptons de vous aidez. Venez vous habriter du froid.."
+END
+
+SCRIPT:ArveduiText19
+"Chef Ossoth: Nous acceptons de vous aidez. Mais protégez notre village de ces envahisseurs."
+END
+
+SCRIPT:ArveduiText20
+"Les Soldats Lossoth vous ont rejoint."
+END
+
+SCRIPT:ArveduiText21
+"Soldat Elfe: Arvedui, le transport est prêt a partir pour les Havres Gris."
+END
+
+SCRIPT:ArveduiText22
+"Chef Lossoth: Attendez le printemps, la mer est trop hostile en ce moment. C'est trop dangereux de naviguer maintenant."
+END
+
+SCRIPT:ArveduiText23
+"Arvedui: Merci pour toute l'aide que vous nous avez apporté, voici mon anneau en gage de ma gratitude."
+END
+
+SCRIPT:ArveduiText24
+"Arvedui: Tous à bord, nous partons tout de suite."
+END
+
+SCRIPT:ArveduiText25
+"Parlez aux chefs des Lossoths pour demander de l'aide."
+END

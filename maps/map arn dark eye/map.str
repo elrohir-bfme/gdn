@@ -1,0 +1,39 @@
+SCRIPT:GOOD_DARKEYE_01
+"Fuyiez avec le Palantir."
+END
+
+SCRIPT:GOOD_DARKEYE_02
+"Utilisez le pouvoir du Palantir."
+END
+
+SCRIPT:GOOD_DARKEYE_03
+"Récupérez l'objet et découvrez le destin du Palantir."
+END
+
+SCRIPT:GOOD_DARKEYE_04
+"Récupérez les 7 éclats du Palantir."
+END
+
+SCRIPT:GOOD_DARKEYE_05
+"La Forteresse ne doit pas tomber."
+END
+
+SCRIPT:Arveleg_lv10
+"Faite passer Arveleg au niv 10 pour utiliser le palantir "
+END
+
+SCRIPT:ANGMARHASSHARD
+"L'Angmar a récupéré un éclat"
+END
+
+SCRIPT:DarkEYE_AngmarFortress
+"Détruisez la Forteresse d'Angmar pour récupérez les éclats en leur possession"
+END
+
+SCRIPT:ANGMARSHARDCOUNTER
+"Nombre d'éclats d'Angmar :"
+END
+
+SCRIPT:PLAYERSHARDCOUNTER
+"Nombre d'éclats collecté :"
+END

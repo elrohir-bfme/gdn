@@ -1,0 +1,71 @@
+SCRIPT:ARNCardolanObjectiveText_011
+"La forteresse d'Arnor ne doit pas tomber."
+END
+
+SCRIPT:ARNCardolanObjectiveText_022
+"Détruire le camp de l'Angmar."
+END
+
+SCRIPT:ARNCardolanObjectiveText_033
+"Détruire l'avant-poste de l'Angmar."
+END
+
+SCRIPT:ARNCardolanBonusObjectiveText_01
+"Construire une caserne d'Arnor et une caserne des elfes."
+END
+
+SCRIPT:ARNCardolanBonusObjectiveText_02
+"Railliez-vous aux elfes de Cardolan."
+END
+
+SCRIPT:ARNCardolanObjectiveText_01
+"Les forces d'Angmar ont lancé une attaque d'envergure sur Cardolan. Nous devons stopper leur avance."
+END
+
+SCRIPT:ARNCardolanObjectiveText_02
+"Nous savons qu'ils ont construit leur camp au Nord Est de notre position. Nous devons le détruire"
+END
+
+SCRIPT:ARNCardolanObjectiveText_03
+"Ils ont également établi un avant-poste d'où ils lancent des raides au nord-ouest d’ici. \n Nous devons également nous en occuper."
+END
+
+SCRIPT:ARNCardolanObjectiveText_04
+"Nous devons établir nos défenses afin de stopper l'Angmar, notre forteresse ne doit pas tomber ou tout est perdu."
+END
+
+SCRIPT:ARNCardolanObjectiveText_05
+"Les Elfes sont venus nous aider à combattre l'Angmar, ils ont un camp à l'ouest. \n Nous devons unir nos forces afin de vaincre l'envahisseur."
+END
+
+SCRIPT:ARNCardolanObjectiveText_06
+"Soldat Elfe : Ils sont trop nombreux, il nous faut des renforts."
+END
+
+SCRIPT:ARNCardolanObjectiveText_07
+"Orque : Mourrez mes jolis petits elfes."
+END
+
+SCRIPT:ARNCardolanObjectiveText_08
+"Soldat Elfe : Sentez la morsure de nos flèches."
+END
+
+SCRIPT:ARNCardolanObjectiveText_09
+"Une embuscade a été repéré, anéantissez les forces ennemies."
+END
+
+SCRIPT:ARNCardolanObjectiveText_10
+"Arnor Officier : Vous pouvez être fière de vous, aujourd’hui Angmar a été repoussé de ces terres. \n Cardolan ne se laissera pas faire."
+END
+
+SCRIPT:ARNCardolanObjectiveText_11
+"Arnor Officer : On m'a informé qu'Amon Sul est attaqué par le Roi Sorcier. Mais n'ayez crainte, \n je suis sûr qu'Arveleg défendra la forteresse grâce au Palantir. Continuons de repousser les envahisseurs hors de Cardolan."
+END
+
+SCRIPT:ARNCardolanObjectiveText_12
+"Détruisez les 3 moulins, les 3 Tentes et toutes les unités qui les guardes pour détruire l'Avant poste."
+END
+
+SCRIPT:ARNCardolanObjectiveText_13
+"Détruisez Tous les Batiments de l'Angmar pour détruire le camp."
+END
